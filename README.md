@@ -7,6 +7,7 @@ Claude Code 增强装备点 — 团队共用的工具和配置，让 Claude Code
 | 装备 | 解决什么 | 安装 |
 |------|---------|------|
 | [web-fetch](./web-fetch/) | 内置 WebFetch 抓取失败（Cloudflare、JS 页面、反爬） | `cd web-fetch && bash setup.sh` |
+| [handoff](./handoff/) | 换 session 时上下文丢失，要重新解释 | `cd handoff && bash setup.sh` |
 
 ## 怎么用
 
